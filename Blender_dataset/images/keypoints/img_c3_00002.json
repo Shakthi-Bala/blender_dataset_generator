@@ -1,0 +1,32 @@
+{
+  "image": "img_c3_00002.png",
+  "mask": "mask_c3_00002.png",
+  "resolution": {
+    "width": 640,
+    "height": 648
+  },
+  "camera": "Camera3",
+  "objects": [
+    {
+      "object_name": "window_1_RGB",
+      "keypoints": [
+        {
+          "x": 333,
+          "y": 437
+        },
+        {
+          "x": 639,
+          "y": 266
+        },
+        {
+          "x": 231,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 221
+        }
+      ]
+    }
+  ]
+}

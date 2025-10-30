@@ -1,0 +1,74 @@
+{
+  "image": "img_c3_00006.png",
+  "mask": "mask_c3_00006.png",
+  "resolution": {
+    "width": 640,
+    "height": 648
+  },
+  "camera": "Camera3",
+  "objects": [
+    {
+      "object_name": "window_1_RGB",
+      "keypoints": [
+        {
+          "x": 235,
+          "y": 368
+        },
+        {
+          "x": 518,
+          "y": 550
+        },
+        {
+          "x": 639,
+          "y": 353
+        },
+        {
+          "x": 521,
+          "y": 82
+        }
+      ]
+    },
+    {
+      "object_name": "window_2_RGB",
+      "keypoints": [
+        {
+          "x": 0,
+          "y": 104
+        },
+        {
+          "x": 89,
+          "y": 273
+        },
+        {
+          "x": 496,
+          "y": 66
+        },
+        {
+          "x": 187,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "object_name": "window_3_RGB",
+      "keypoints": [
+        {
+          "x": 148,
+          "y": 473
+        },
+        {
+          "x": 274,
+          "y": 509
+        },
+        {
+          "x": 474,
+          "y": 451
+        },
+        {
+          "x": 389,
+          "y": 396
+        }
+      ]
+    }
+  ]
+}
