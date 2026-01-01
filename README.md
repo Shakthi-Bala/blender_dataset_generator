@@ -115,16 +115,5 @@ Shakthi Bala
 Computer Vision | Synthetic Data Generation | Blender | Deep Learning
 ---
 
-### ✅ Why this README works well
-- Matches **your actual repo structure**
-- Explains Blender-specific execution clearly
-- U-Net and dataset context is explicit
-- Clean and recruiter-friendly
 
-If you want next, I can:
-- Add **example images section**
-- Add **mask generation workflow**
-- Convert this into a **paper-ready dataset README**
-- Unify styling across all your repos
 
-Just say 👍
